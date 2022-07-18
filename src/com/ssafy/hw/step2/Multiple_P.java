@@ -10,7 +10,6 @@ public class Multiple_P {
 		
 		System.out.print("숫자를 입력하세요 : ");
 		int num = sc.nextInt();
-		//test
 		// 입력한 숫자 검사
 		// 0을 입력받으면 반복 종료
 		_____ (_______) {
