@@ -22,7 +22,7 @@ public class Multiple_P {
 			num = sc.nextInt();
 			
 		}
-		
+		 
 		System.out.println("프로그램 종료");
 
 	}
